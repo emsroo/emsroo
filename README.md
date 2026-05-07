@@ -3,9 +3,17 @@
 <!--
 **emsroo/emsroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nanotechnology+;Microelectronics;Software+Development)](https://git.io/typing-svg)
+</div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Emmanuel%20Rojas&reversal=false)
+
+
+<p align="center">
+Continuous learning, Continuous integration, Continuous deployment 🚀
+</p>
+
 
 ## Technical Skills include:
 
