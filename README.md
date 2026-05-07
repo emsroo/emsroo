@@ -17,14 +17,14 @@
 </p>
 <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw1NGF4YTAwMWhkcGlvZHZvczN2MTBlYmpmOGlxa2c3NGdqMnF6eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fjxc129Zk98KHrt31O/giphy.gif" alt="robot"> -->
 
-
+<!-- 
 ## Technical Skills include:
 
 ### Backend, Cloud & Core Technologies
 <div align="center">
    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,spring,nodejs,mysql,docker,linux,bash,git,matlab&perline=12)](https://skillicons.dev">
 </div>
-
+-->
 ## Technical Skills include:
 
 ### Languages 
