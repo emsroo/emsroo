@@ -34,8 +34,10 @@
 </span>
 
 ## Contact / Social Media
-<a href= "https://www.linkedin.com/in/fredy-alonzo-mondragon-583960229/?locale=en_US">
+
+<a href= "https://www.linkedin.com/in/emmanuel--rojas/?locale=en_US">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 <a/>
 
-[Check out my Linkedln here!](https://www.linkedin.com/in/emmanuel--rojas/)
+  
+[Check out my Linkedln here! https://www.linkedin.com/in/emmanuel--rojas/](https://www.linkedin.com/in/emmanuel--rojas/)
