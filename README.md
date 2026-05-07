@@ -46,5 +46,5 @@
 
 ## 👁️ Visits to profile:
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emsroo&label=Visitantes&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=emsroo&label=Visits&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views"/>
 </div>
