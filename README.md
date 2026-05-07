@@ -15,9 +15,14 @@
 <p align="center">
   Continuous learning, Continuous integration, Continuous deployment 🚀
 </p>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw1NGF4YTAwMWhkcGlvZHZvczN2MTBlYmpmOGlxa2c3NGdqMnF6eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fjxc129Zk98KHrt31O/giphy.gif" alt="robot">
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw1NGF4YTAwMWhkcGlvZHZvczN2MTBlYmpmOGlxa2c3NGdqMnF6eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fjxc129Zk98KHrt31O/giphy.gif" alt="robot"> -->
 
-  
+
+## Technical Skills include:
+
+<div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,cpp,py,react,bootstrap,spring,git,mysql,aws,figma)](https://skillicons.dev)
+</div>
 
 ## Technical Skills include:
 
