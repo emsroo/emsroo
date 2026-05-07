@@ -40,11 +40,11 @@
 <a href= "https://www.linkedin.com/in/emmanuel--rojas/?locale=en_US">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 <a/>
+  
+[Check out my Linkedln here! https://www.linkedin.com/in/emmanuel--rojas/](https://www.linkedin.com/in/emmanuel--rojas/)
 
 
 ## 👁️ Visits to profile:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emsroo&label=Visitantes&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views"/>
 </p>
-  
-[Check out my Linkedln here! https://www.linkedin.com/in/emmanuel--rojas/](https://www.linkedin.com/in/emmanuel--rojas/)
