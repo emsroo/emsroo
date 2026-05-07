@@ -1,8 +1,11 @@
-## Hi there 👋
+
 
 <!--
 **emsroo/emsroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nanotechnology+;Microelectronics;Software+Development)](https://git.io/typing-svg)
+
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Emmanuel%20Rojas&reversal=false
 
 ## Technical Skills include:
 
@@ -39,7 +42,7 @@
 <a/>
 
 
-## 👁️ Visitas al Perfil:
+## 👁️ Visits to profile:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emsroo&label=Visitantes&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views"/>
 </p>
