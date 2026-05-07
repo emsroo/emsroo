@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
@@ -39,5 +38,10 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 <a/>
 
+
+## 👁️ Visitas al Perfil:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emsroo&label=Visitantes&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views"/>
+</p>
   
 [Check out my Linkedln here! https://www.linkedin.com/in/emmanuel--rojas/](https://www.linkedin.com/in/emmanuel--rojas/)
