@@ -5,7 +5,7 @@
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nanotechnology+;Microelectronics;Software+Development)](https://git.io/typing-svg)
 
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Emmanuel%20Rojas&reversal=false
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Emmanuel%20Rojas&reversal=false)
 
 ## Technical Skills include:
 
