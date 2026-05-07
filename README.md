@@ -20,8 +20,9 @@
 
 ## Technical Skills include:
 
+### Backend, Cloud & Core Technologies
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,cpp,py,react,bootstrap,spring,git,mysql,aws,figma)](https://skillicons.dev)
+   <img src="https://skillicons.dev/icons?i=py,c,cpp,java,spring,nodejs,mysql,docker,linux,bash,git,matlab&perline=12)](https://skillicons.dev">
 </div>
 
 ## Technical Skills include:
